@@ -33,6 +33,7 @@
 | **Ders 8** | Online Form (Gradio ile Veri Toplama) | <a href="https://drive.google.com/file/d/18EWGRp2eagTB_WtRJxE8AxMnbAfS89Ms/view?usp=sharing" target="_blank">Drive</a> |
 | **Ders 9** | Pandas ile Veri Çekme | <a href="https://drive.google.com/file/d/1OYHOczFDOBzA3_lTSKPmSEdWmQsYbHKS/view?usp=sharing" target="_blank">Drive</a> |
 | **Ders 10** | Corona Veri Seti Yarışan Grafikler | <a href="https://drive.google.com/file/d/1WkxxuxEFmA7uYlnyx7E-CABRBRWDZsfq/view?usp=sharing" target="_blank">Drive</a> |
+| **Ders 11** | Google AI Studio Uygulamaları (Gemini Entegrasyonu) | <a href="https://ai.studio/apps/5523a040-99ef-495e-aa2f-797242cacfca" target="_blank">AI Studio</a> |
 | **Ders 12** | Google Trends | <a href="https://drive.google.com/file/d/1JbYRFzE6fkH01ALy0V-0y07GaMACI3uu/view?usp=sharing" target="_blank">Drive</a> |
 | **Ders 14** | Finans Verileri (yfinance - Alpha Vantage API) | <a href="https://drive.google.com/file/d/1i3AGIaU8wKDhGew_cEzmWYNsBLfdVf4a/view?usp=sharing" target="_blank">Drive</a> |
 | **Ders 15** | Open Weather API ile Hava Durumu | <a href="https://drive.google.com/file/d/102gdROtfEVmxFkKhsFxyRu1ybYxFjyEt/view?usp=sharing" target="_blank">Drive</a> |
